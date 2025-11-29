@@ -68,17 +68,17 @@ telco-customer-churn-classification/
 Dataset yang digunakan adalah data_telco_customer_churn.csv .Dataset memuat informasi historis pelanggan layanan telekomunikasi. 
 
 **Fitur-fitur utama**
-1.  Dependents : tanggungan (misalnya anak atau orang tua) atau tidak (Yes/No)
-2.  tenure : durasi waktu (dalam bulan) pelanggan telah berlangganan
-3.  OnlineSecurity : Layanan keamanan online tambahan (Yes, No, atau No internet service)
-4.  OnlineBackup : Layanan pencadangan data online (Yes, No, atau No internet service)
-5.  InternetService : Jenis layanan internet yang digunakan pelanggan (DSL, Fiber optic, atau No) 
-6.  DeviceProtection : Layanan perlindungan perangkat (Yes, No, atau No internet service)
-7.  TechSupport : Layanan dukungan teknis tambahan (Yes, No, atau No internet service)
-8.  Contract : Jenis kontrak berlangganan pelanggan (Month-to-month, One year, atau Two year) 
-9.  PaperlessBilling : Apakah pelanggan memilih tagihan tanpa kertas (elektronik) atau tidak (Yes/No)
-10. MonthlyCharges : Jumlah tagihan bulanan yang dibebankan kepada pelanggan
-11. Churn : Variabel target yang menunjukkan apakah pelanggan berhenti berlangganan (Yes) atau tetap setia (No)
+1.  **Dependents** : tanggungan (misalnya anak atau orang tua) atau tidak (Yes/No)
+2.  **tenure** : durasi waktu (dalam bulan) pelanggan telah berlangganan
+3.  **OnlineSecurity** : Layanan keamanan online tambahan (Yes, No, atau No internet service)
+4.  **OnlineBackup** : Layanan pencadangan data online (Yes, No, atau No internet service)
+5.  **InternetService** : Jenis layanan internet yang digunakan pelanggan (DSL, Fiber optic, atau No) 
+6.  **DeviceProtection** : Layanan perlindungan perangkat (Yes, No, atau No internet service)
+7.  **TechSupport** : Layanan dukungan teknis tambahan (Yes, No, atau No internet service)
+8.  **Contract** : Jenis kontrak berlangganan pelanggan (Month-to-month, One year, atau Two year) 
+9.  **PaperlessBilling** : Apakah pelanggan memilih tagihan tanpa kertas (elektronik) atau tidak (Yes/No)
+10. **MonthlyCharges** : Jumlah tagihan bulanan yang dibebankan kepada pelanggan
+11. **Churn** : Variabel target yang menunjukkan apakah pelanggan berhenti berlangganan (Yes) atau tetap setia (No)
 
 ---
 
