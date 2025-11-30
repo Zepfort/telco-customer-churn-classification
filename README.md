@@ -33,7 +33,8 @@ telco-customer-churn-classification/
 │   └── churn_prediction_model.pkl          
 ├── notebooks/
 │   ├── ml_classification_telco_customer_churn.ipynb   
-│   └── pipeline.ipynb                      
+│   └── pipeline.ipynb   
+├── app.py                
 ├── README.md                               
 └── requirements.txt
 ```
@@ -42,20 +43,26 @@ telco-customer-churn-classification/
 
 ## Menjalankan Proyek
 
-**1. Clone Repository**
+### 1. Clone Repository
 
-```text
+```bash
 git clone https://github.com/Zepfort/telco-customer-churn-classification.git
 cd telco-customer-churn-classification
 ```
 
-**2.pip install -r requirements.txt**
+### 2.pip install -r requirements.txt
 
-```text
-pip install -r requirements.txt
+```bash
+pip install -r requirements_full.txt
 ```
 
-**3.Jalankan Notebook**
-```text
+### 3.Jalankan Notebook
+```bash
 notebooks/ml_telco_customer_churn_classification
 ```
+
+--- 
+
+## Future Improvements
+
+- Deployment ke Streamlit
