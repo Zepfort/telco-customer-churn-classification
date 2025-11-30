@@ -102,3 +102,10 @@ pip install -r requirements_full.txt
 ```bash
 notebooks/ml_telco_customer_churn_classification
 ```
+
+---
+
+## Author
+- Alif Januar Rizky - Github: https://github.com/Zepfort
+- Anas Ridwhanul Dahlan - Github: https://github.com/Anasrrd
+- Khalila Nuraini Putri - Github: https://github.com/khalilanp
